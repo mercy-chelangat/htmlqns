@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color:orange;
+}
+table{
+    width: 100%;
+    /* margin: auto; */
+    border-collapse: collapse;
+    
+}
+th{
+    text-align: center;
+    border: 2px solid black;
+
+    
+}
+td{
+    text-align: center;
+    border: 2px solid black;
+
+}
+.footer{
+    background-color: orangered;
+    text-align: center;
+
+}
+span{
+    color:blue;
+}
+img{
+    width: 50%;
+}
